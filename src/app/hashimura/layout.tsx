@@ -5,7 +5,6 @@ export default function HashimuraLayout({children}: {
 }){
  return (
     <>
-        <p className="text-6xl text-blue-600">Welcome to 五目並べ</p>
         {children}
     </>
  );

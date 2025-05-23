@@ -1,4 +1,5 @@
 function Square() {
+    
     return(
         <button className="outline box-border size-32 text-9xl">{}</button>
     )
